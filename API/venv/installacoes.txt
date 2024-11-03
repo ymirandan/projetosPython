@@ -1,0 +1,1 @@
+foi instalado as ultimas versoes do python e django e markdown
